@@ -2,7 +2,7 @@
 #include<string.h>
 char pntab [4][5], evtab [3][3], kpdtab [3][5], ssntab [2][5];
 int pn, pn1, ev, ssn;  
-int checkpn (char var [])
+int checkpn (char var [])   
 {  
     int j; 
     for(j=1;j<=5;j++)
