@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 char str1[10][7],str2[10][7];
-int checkssn(char var[])
+int checkssn(char var[])  
 {
     int j;
     for(j=1;j<=9;j++)
